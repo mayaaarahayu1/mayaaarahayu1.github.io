@@ -84,7 +84,7 @@ params:
   labs:
     name: 'Information Security Lab'
     name_sort: 'ISEC'
-    link: 'https://isec'
+    link: 'https://isec.ec.okayama-u.ac.jp/home/index_en.html'
     members:
       - name: 'Yasuyuki NOGAMI'
         link: 'https://isec.ec.okayama-u.ac.jp/home/nogami/index.html'

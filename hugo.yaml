@@ -1,6 +1,6 @@
 baseURL: 'https://mgpnata.github.io'
 languageCode: 'en-us'
-title: 'DTNOU - Site'
+title: 'My Personal Page - Testing purpose'
 theme: 'dtnou-hugo'
 
 markup:
@@ -33,7 +33,9 @@ params:
     location: 'Japan'
     #pronouns:
     bio: "(D1) Doctoral Student 1 year"
-    employer: 'Okayama University'
+    employer:
+      name: 'Okayama University'
+      link: 'https://www.okayama-u.ac.jp'
     #picture: 'profile.png'
     site: 'https://dtn-ou.gitlab.io'
     mail: 'mpranata@s.okayama-u.ac.jp'
@@ -54,7 +56,7 @@ params:
     #codepen:
     #dribbble:
     github: 'mgpnata'
-    gitlab: 'dtn-ou'
+    #gitlab: 'dtn-ou'
     #kaggle:
     #stackoverflow:
     #bluesky:
@@ -79,3 +81,14 @@ params:
     #xing:
     #youtube:
     #zhihu:
+  labs:
+    name: 'Information Security Laboratory'
+    name_sort: 'ISEC'
+    link: 'https://isec.ec.okayama-u.ac.jp/home/index_en.html'
+    members:
+      - name: 'Yasuyuki NOGAMI'
+        link: 'https://isec.ec.okayama-u.ac.jp/home/nogami/index.html'
+      - name: 'Yuta KODERA'
+        link: 'https://isec.ec.okayama-u.ac.jp/home/kodera/'
+      - name: 'Samsul HUDA'
+        link: 'https://sites.google.com/s.okayama-u.ac.jp/huda'

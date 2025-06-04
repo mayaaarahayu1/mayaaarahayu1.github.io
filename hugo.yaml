@@ -82,7 +82,7 @@ params:
     #youtube:
     #zhihu:
   labs:
-    name: 'Information Security Lab'
+    name: 'Information Security Laboratory'
     name_sort: 'ISEC'
     link: 'https://isec.ec.okayama-u.ac.jp/home/index_en.html'
     members:
